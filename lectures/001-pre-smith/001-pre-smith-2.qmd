@@ -1,0 +1,274 @@
+---
+title: "The triumph of individualism II"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Comparing & contrasting {background-color="#62259D"}
+  
+  
+  
+## Comparing & contrasting
+  
+<br>
+  
+
+:::: {.columns .incremental}
+
+::: {.column width="50%"}
+![](weber.png){fig-align="right" width="350" height="450"}
+:::
+
+::: {.column width="50%" .fragment .incremental}
+[Sociology]{.note} of religion
+
+- [Q]{.note}: What [differentiates]{.note} capitalism from other civilizations?
+
+- [A]{.note}: Pursuit of profits?
+
+
+- "*The impulse to acquisition, pursuit of gain, of money, of the greatest possible amount of money, has in itself nothing to do with capitalism. This impulse exists and has existed among waiters, physicians, coachmen, artists* [...]" (p. xxxi)
+
+:::
+
+::::
+
+## Comparing & contrasting
+
+
+<br>
+
+[Rationalism]{.note} & [Order]{.note}
+
+. . .
+
+The [key]{.note} element: **Organization of (formally) free labor**.
+
+
+
+## Comparing & contrasting
+
+:::: {.columns .incremental}
+
+::: {.column width="50%"}
+![](tawney.png){fig-align="right" width="350" height="450"}
+:::
+
+::: {.column width="50%" .fragment .incremental}
+
+[Ethical/moral]{.note} standards to regulations in society
+
+- How do they impact [economic behavior]{.note}?
+
+
+- "*“On the one hand, it is evident that the whole body of regulations, by which modern societies set limits to the free play of economic self-interest, implies the acceptance, whether deliberate or unconscious, of moral standards, by reference to which certain kinds of economic conduct are pronounced illegitimate.*" (p. 4)
+
+:::
+
+::::
+
+
+# The Medieval background {background-color="#62259D"}
+
+
+## The Medieval background
+
+<br>
+
+[Q]{.note}: What is the [essence]{.note} of the transition from feudalism to capitalism?
+
+. . .
+
+[A]{.note}: [Secularization]{.note} of social theory.
+
+. . .
+
+"*The political aspects of the transformation are familiar. The theological mould which shaped political theory from the Middle Ages to the seventeenth century is broken; politics becomes a science, ultimately a group of sciences, and theology at best one science among others. Reason takes the place of revelation, and the criterion of political institutions is expediency, not religious authority. Religion, ceasing to be the master-interest of mankind, dwindles into a department of life with boundaries which it is extravagant to overstep*" (p. 6)
+
+
+## The Medieval background
+
+<br>
+
+[Medieval]{.note} vs. [Capitalist]{.note} societies:
+
+. . .
+
+<br>
+
+- Theoretical [foundations]{.note}
+
+- Social [values]{.note}
+
+- View of [society]{.note}
+
+
+
+## The Medieval background
+
+<br>
+
+"*Between the conception of society as a community of unequal classes with varying functions, organized for a common end, and that which regards it as a mechanism adjusting itself through the play of economic motives to the supply of economic needs; between the idea that a man must not take advantage of his neighbor’s necessity, and the doctrine that “man’s self-love is God`s providence”; between the attitude which appeals to a religious standard to repress economic appetites, and that which regards expediency as the final criterion—there is a chasm which no theory of the permanence and ubiquity of economic interests can bridge, and which deserves at least to be explored*." (p. 13)
+
+
+# The sin of avarice {background-color="#62259D"}
+
+## The sin of avarice
+
+<br>
+
+[Q]{.note}: What is [avarice]{.note}?
+
+. . .
+
+
+<br>
+
+Two aspects:
+
+  - [Just price]{.note} doctrine;
+  
+  - [Usury]{.note}.
+  
+## The sin of avarice
+
+<br><br>
+
+The [philosophical]{.note} basis: [Natural law]{.note}.
+
+. . .
+
+<br>
+
+Natural law involves [two]{.note} key aspects:
+
+  - [Ontological]{.note} statement;
+  
+  - [Moral]{.note} imperative
+  
+## The sin of avarice
+
+<br>
+
+"*The philosophical basis of it [usury] is the conception of natural law. Every law framed by man bears the character of a law exactly to that extent to which it is derived from the law of nature. But if on any point it is in conflict with the law of nature, it at once ceases to be a law; it is a mere perversion of law [...] The most fundamental difference between medieval and modern economic thought consists, indeed, in the fact that, whereas the latter normally refers to economic expediency, however it may be interpreted, for the justification of any particular action, policy, or system of organization, the former starts from the position that there is a moral authority to which considerations of economic expediency must be subordinated*." (p. 39)
+
+
+# The economic revolution {background-color="#62259D"}
+
+
+## The economic revolution
+
+<br><br>
+
+What [revolution]{.note}?
+
+# The continental reformers {background-color="#62259D"}
+
+## The continental reformers
+
+<br>
+
+[Luther]{.note}:
+
+. . .
+
+The life of the [peasant]{.note}
+
+. . .
+
+<br>
+
+"*God speaks to the soul, not through the mediation of the priesthood or of social institutions built up by man, but [solus cum solo]{.hi}, as a voice in the heart and in the heart alone. Thus the bridges between the worlds of spirit and of sense are broken, and the soul is isolated from the society of men, that it may enter into communion with its Maker*." (pp. 96&mdash;97)
+
+
+## The continental reformers
+
+
+<br>
+
+
+[Calvin]{.note}:
+
+. . .
+
+[Urban]{.note} life
+
+. . .
+
+Three main [doctrines]{.note}:
+
+  - [Predestination]{.note};
+  
+  - The [calling]{.note};
+  
+  - Worldly [asceticism.]{.note}
+  
+. . .
+
+"*Discipline. Calvin himself described as the nerves of religion,[63] and the common observation that he assigned to it the same primacy as Luther had given to faith is just.*" (p. 115)
+
+
+# The Church of England {background-color="#62259D"}
+
+## The Church of England
+
+<br>
+
+[The land question]{.note}
+
+. . .
+
+<br>
+
+[Enclosures]{.note} movement
+
+. . .
+
+<br><br>
+
+
+Consequences?
+
+
+## The Church of England
+
+<br>
+
+[The growth of individualism]{.note}
+
+. . .
+
+<br>
+
+Now, [natural law]{.note} [legitimizes]{.hi-red} human appetites:
+
+"*The law of nature had been invoked by medieval writers as amoral restraint upon economic self-interest. By the seventeenth century, a significant revolution had taken place. Nature had come to connote, not divine ordinance, but human appetites, and natural rights were invoked by the individualism of the age as a reason why self-interest should be given free play*." (pp. 179&mdash;180)
+
+
+
+
+
+# The Puritan movement {background-color="#62259D"}
+
+## The Puritan movement
+
+<br>
+
+[The new medicine for profit]{.note}
+
+. . .
+
+<br>
+
+Legislation against [poor/unemployed]{.note} population
+
+
+# Next time: Mercantilism & Physiocracy {background-color="#62259D"}

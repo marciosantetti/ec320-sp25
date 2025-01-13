@@ -1,0 +1,108 @@
+---
+title: "The triumph of individualism I"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Timeline {background-color="#62259D"}
+  
+  
+  
+## Timeline
+  
+<br>
+  
+**1776&mdash;1936**
+
+. . .
+
+<br><br>
+
+Why start only in [1776]{.note}?
+
+
+# The economic revolution {background-color="#62259D"}
+
+
+## The economic revolution
+
+<br>
+
+[3]{.note} ways to organize society:
+
+. . .
+
+  - [Tradition]{.note} (kinship);
+  - [Command]{.note} (authoritarian);
+  - [Market]{.note} system.
+
+
+. . .
+
+<br>
+
+Market system [overlaps]{.note} with the rise of [individualistic]{.note} behavior.
+
+. . .
+
+## The economic revolution
+
+<br>
+
+[4]{.note} causes for the transition:
+
+<br>
+
+. . .
+
+- Emergence of [nation-state]{.note};
+- Introduction of [money]{.note} and [markets]{.note} (material changes);
+- Rise in [scientific]{.note} curiosity;
+- Decline of [religious spirit]{.note} (namely of the Catholic Church).
+
+
+# Ethics & Economics {background-color="#62259D"}
+
+## Ethics & Economics
+
+
+From [feudalism]{.note} to [capitalism]{.note}
+
+. . .
+
+Perspective of [ethics]{.note}
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](tawney.png){fig-align="left" width="350" height="450"}
+:::
+
+::: {.column width="50%"}
+![](weber.png){fig-align="right" width="350" height="450"}
+:::
+
+::::
+
+
+## Ethics & Economics
+
+<br><br>
+
+"*On the one hand, it is evident that the whole body of regulations, by which modern societies set limits to the free play of economic self-interest, implies the acceptance, whether deliberate or unconscious, of moral standards, by reference to which certain kinds of economic conduct are pronounced illegitimate*." (Tawney, 1926, p. 4)
+
+
+
+
+
+# Next time: Rise of individualism, continued {background-color="#62259D"}
