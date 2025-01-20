@@ -23,4 +23,14 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 **001: Economic ideas prior to Adam Smith I**
 
-  - Slides:
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/001-pre-smith/001-pre-smith-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/001-pre-smith/001-pre-smith-individualism.pdf)
+
+
+<br>
+
+
+## Assignments
+
+<br>
+
+**HET Glossary**: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/assignments/glossary/glossary-ec320-sp25.html)
