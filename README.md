@@ -33,4 +33,4 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
-**HET Glossary**: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/assignments/glossary/glossary-ec320-sp25.html)
+- **HET Glossary**: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/assignments/glossary/glossary-ec320-sp25.html)
