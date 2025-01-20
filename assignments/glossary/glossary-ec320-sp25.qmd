@@ -1,0 +1,121 @@
+---
+title: "History of Economic Thought Glossary"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Description 
+  
+  
+  
+## Description
+
+<br>
+  
+Inspired by *The Economist's* [[A to Z of Economics]{.link}](https://www.economist.com/economics-a-to-z), we will build our own [History of Economic Thought Glossary]{.note} throughout this semester.
+
+. . .
+
+<br>
+
+The goal is to publish and maintain an [online]{.note} glossary of important [words]{.note} and [terms]{.note} that help us keep track of our learning.
+
+. . .
+
+<br>
+
+This assignment will [combine]{.note} your understanding from readings/lectures and direct citations from our original sources.
+
+# How this will work
+
+
+## How this will work
+
+[Note]{.note}: This is a [semester-long]{.note} assignment.
+
+. . .
+
+Each student must contribute with [at least 10]{.note} entries over the semester.
+
+  - No more than [two]{.note} entries per course topic.
+
+. . .
+
+Students must add a [definition]{.note} for the word/concept they enter in the glossary:
+
+  - No more than [four sentences]{.note}!
+  - If using a [citation]{.note} from our readings, students must provide a [bibliographical reference]{.note}.
+  - See next slide for an [example.]{.note}
+
+
+## How this will work
+
+An example:
+
+<br>
+
+[Anticipated inflation]{.note}:
+
+"[A]n idealized situation in which prices are rising at a rate at which all economic agents expect them to rise." (Parkin, M. Inflation. In: *The New Palgrave Dictionary of Economics*, 2nd edition, 2008).
+
+. . .
+
+<br>
+
+[[Iwasaki Libary's guide to citation styles]{.link}](https://guides.library.emerson.edu/citation)
+
+
+## How this will work
+
+I recommend:
+
+<br>
+
+  - Setting up a digital environment where we can [see/edit]{.note} all entries (e.g., shared Google Docs);
+  
+  - Focusing on words/concepts that are actually [useful/meaningful]{.note} (there will be plenty!);
+  
+  - Constantly communicating to make sure there are [no overlaps]{.note};
+  
+  - Contributing with [at least one entry]{.note} per course topic.
+  
+<br>
+
+Prof. Santetti will make the glossary available [online]{.note} (with all credits) by the end of Spring.
+  
+# Grading
+
+
+## Grading
+
+<br>
+
+- Points possible: [30]{.note}.
+
+- Due dates for each topic will be announced [one week in advance]{.note}.
+
+- Late submission policies are available on the [Course Syllabus]{.note}.
+  
+
+# Final remarks
+
+## Final remarks
+
+<br><br>
+
+For this assignment, stick to the [actual definition]{.note} of your chosen terms.
+
+  - Do not give your [personal opinion]{.note} on the matter!
+  
+  - There will be opportunities for more [subjective]{.note} views in the future.
+  
+
+
