@@ -1,5 +1,5 @@
 ---
-title: "The triumph of individualism II"
+title: "The triumph of individualism"
 subtitle: "History of Economic Thought // Spring 2025"
 institute: "marcio.santetti@emerson.edu"
 format: 
@@ -11,6 +11,90 @@ html-math-method:
 author:
   - name: Prof. Santetti
 ---
+
+# Timeline {background-color="#62259D"}
+  
+  
+  
+## Timeline
+  
+<br>
+  
+**1776&mdash;1936**
+
+. . .
+
+<br><br>
+
+Why start only in [1776]{.note}?
+
+
+# The economic revolution {background-color="#62259D"}
+
+
+## The economic revolution
+
+<br>
+
+[3]{.note} ways to organize society:
+
+. . .
+
+  - [Tradition]{.note} (kinship);
+  - [Command]{.note} (authoritarian);
+  - [Market]{.note} system.
+
+
+. . .
+
+<br>
+
+Market system [overlaps]{.note} with the rise of [individualistic]{.note} behavior.
+
+. . .
+
+## The economic revolution
+
+<br>
+
+[4]{.note} causes for the transition:
+
+<br>
+
+. . .
+
+- Emergence of [nation-state]{.note};
+- Introduction of [money]{.note} and [markets]{.note} (material changes);
+- Rise in [scientific]{.note} curiosity;
+- Decline of [religious spirit]{.note} (namely of the Catholic Church).
+
+
+# Ethics & Economics {background-color="#62259D"}
+
+## Ethics & Economics
+
+
+From [feudalism]{.note} to [capitalism]{.note}
+
+. . .
+
+Perspective of [ethics]{.note}
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](tawney.png){fig-align="left" width="350" height="450"}
+:::
+
+::: {.column width="50%"}
+![](weber.png){fig-align="right" width="350" height="450"}
+:::
+
+::::
+
+
   
 # Comparing & contrasting {background-color="#62259D"}
   
@@ -161,14 +245,14 @@ Natural law involves [two]{.note} key aspects:
 "*The philosophical basis of it [usury] is the conception of natural law. Every law framed by man bears the character of a law exactly to that extent to which it is derived from the law of nature. But if on any point it is in conflict with the law of nature, it at once ceases to be a law; it is a mere perversion of law [...] The most fundamental difference between medieval and modern economic thought consists, indeed, in the fact that, whereas the latter normally refers to economic expediency, however it may be interpreted, for the justification of any particular action, policy, or system of organization, the former starts from the position that there is a moral authority to which considerations of economic expediency must be subordinated*." (p. 39)
 
 
-# The economic revolution {background-color="#62259D"}
+# The economic revolution II {background-color="#62259D"}
 
 
-## The economic revolution
+## The economic revolution II
 
 <br><br>
 
-What [revolution]{.note}?
+What [revolution]{.note} now?
 
 # The continental reformers {background-color="#62259D"}
 
@@ -262,7 +346,7 @@ Now, [natural law]{.note} [legitimizes]{.hi-red} human appetites:
 
 <br>
 
-[The new medicine for profit]{.note}
+[The new medicine for poverty]{.note}
 
 . . .
 
