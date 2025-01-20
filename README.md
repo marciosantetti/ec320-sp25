@@ -11,7 +11,7 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
-  - [`EC 320 Syllabus`]
+  - [`EC 320 Syllabus`](https://raw.githack.com/marciosantetti/ec320-sp25/main/syllabus/syllabus-ec320-spring25.pdf)
 
 <br>
 
@@ -21,6 +21,6 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
-**000: Course Logistics**
+**001: Economic ideas prior to Adam Smith I**
 
   - Slides:
