@@ -28,6 +28,12 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
+**002: Economic ideas prior to Adam Smith II**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/001-pre-smith/001-pre-smith-mercantilism.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/001-pre-smith/001-pre-smith-mercantilism.pdf)
+
+<br>
+
 
 ## Assignments
 
