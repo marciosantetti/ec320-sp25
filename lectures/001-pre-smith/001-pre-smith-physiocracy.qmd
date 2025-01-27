@@ -1,0 +1,28 @@
+---
+title: "Physiocracy and the dawn of capitalism"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+# Liberal thought {background-color="#62259D"}
+
+## Liberal thought
+
+ 
+# French liberalism {background-color="#62259D"}
+
+## French liberalism
+
+# Physiocracy {background-color="#62259D"}
+
+## Physiocracy
+
+# Next time: ??? {background-color="#62259D"}

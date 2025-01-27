@@ -1,0 +1,280 @@
+---
+title: "Mercantilism"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+# Beyond ethics {background-color="#62259D"}
+
+
+## Beyond ethics
+
+<br>
+
+Heilbroner's remaining [causes]{.note} for the transition to the [market system]{.note}:
+
+<br>
+
+- Rise of the [nation-state]{.note};
+
+- Increase in scientific [curiosity]{.note};
+
+- Emergence of [money]{.note} and [markets.]{.note}
+
+
+# Age of discoveries and the nationalist spirit  {background-color="#62259D"}
+
+## Age of discoveries and the nationalist spirit 
+
+
+<br>
+
+New levels of [economic]{.note} & [political]{.note} power.
+
+. . .
+
+<br>
+
+The [leading]{.note} nations:
+
+- Spain;
+
+- Portugal.
+
+## Age of discoveries and the nationalist spirit 
+
+
+<br>
+
+The new [dominant]{.note} activities?
+
+. . .
+
+<br>
+
+- [Done]{.note} by?
+
+- [Sponsored]{.note} by?
+
+. . .
+
+<br>
+
+
+[Political]{.note} consequence?
+
+
+## Age of discoveries and the nationalist spirit 
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](hornick.png){fig-align="left" width="350" height="500"}
+:::
+
+::: {.column width="50%"}
+*Austria above all* (1684)
+
+Phillip von Hornick (1638&mdash;1712)
+:::
+
+::::
+
+
+## Age of discoveries and the nationalist spirit 
+
+[Nine]{.note} rules:
+
+::: {style="font-size: 90%;"}
+
+1. That every inch of a country’s soil be utilized for agriculture, mining, or manufacturing;
+2. That all raw materials found in a country be used in domestic manufacture, since finished goods have a higher value than raw materials;
+3. That a large, working population be encouraged;
+4. That all export of gold and silver be prohibited and all domestic money be kept in circulation;
+5. That all imports of foreign goods be discouraged as much as possible;
+6. That where certain imports are indispensable they be obtained at firsthand, in exchange for other domestic goods instead of gold and silver;
+7. That as much as possible, imports be confined to raw materials that can be finished at home;
+8. That opportunities be constantly sought for selling a country’s surplus manufactures to foreigners, so far as necessary, for gold and silver;
+9. That no importation be allowed if such goods are sufficiently and suitably supplied at home.
+
+:::
+
+# Mercantilism as a doctrine  {background-color="#62259D"}
+
+
+## Mercantilism as a doctrine
+
+<br>
+
+An [early stage]{.note} of capitalism
+
+. . .
+
+[16th&mdash;18th]{.note} centuries
+
+<br>
+
+. . .
+
+A [loose]{.note} system of ideas
+
+. . .
+
+[Symbiosis]{.note} between [State]{.note} and [business]{.note}
+
+. . .
+
+A [conscious]{.note} effort to [commercialize]{.note} society
+
+
+## Mercantilism as a doctrine
+
+<br>
+
+[Two]{.note} questions:
+
+. . .
+
+<br>
+
+[[1]]{.note} How to grow a country's [national power]{.note}?
+
+. . .
+
+[[2]]{.note} How do you accumulate [treasure]{.note}?
+
+
+## Mercantilism as a doctrine
+
+<br>
+
+Trade as a [zero-sum]{.note} game
+
+. . .
+
+- What does that mean?
+
+. . .
+
+<br>
+
+What is a consequence of this view for [economic policy]{.note}?
+
+
+## Mercantilism as a doctrine
+
+<br>
+
+However...
+
+. . .
+
+<br><br>
+
+
+[Demand-pull]{.note} inflation.
+
+
+# Mercantilist writings  {background-color="#62259D"}
+
+## Mercantilist writings
+
+<br>
+
+Who were its [proponents]{.note}?
+
+. . .
+
+<br>
+
+
+[Pamphletary]{.note} character
+
+. . .
+
+<br>
+
+[Policy]{.note}-focused
+
+
+
+## Mercantilist writings
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](forraign.png){fig-align="left" width="400" height="500"}
+:::
+
+::: {.column width="60%"}
+[Thomas Mun (1571&mdash;1641)]{.note}
+
+"*Although a Kingdom may be enriched by gifts received, or by purchase taken from some other Nations, yet these are things uncertain and of small consideration. The ordinary means therefore to encrease our wealth and treasure is by Forraign Trade, wherein wee must ever observe this rule: to sell more to strangers yearly than wee consume of theirs in value*" (ch. 2)
+
+
+:::
+
+::::
+
+
+
+
+# Mercantilism as a process  {background-color="#62259D"}
+
+
+
+
+## Mercantilism as a process
+
+<br>
+
+Granting of [monopolies]{.note}
+
+. . .
+
+<br>
+
+Rise of a new [social class]{.note}
+
+. . .
+
+<br>
+
+[Consequence]{.note}: [Merchants]{.note} become [entrepreneurs.]{.note}
+
+
+## Mercantilism as a process
+
+
+<br><br>
+
+[Parliament]{.note} *vs.* [Crown]{.note}
+
+. . .
+
+<br>
+
+*The focal point of the conflict between Parliament and the Crown in the struggle to supply monopoly rights concerned patents. Parliament wanted to restrain the unlimited power of the crown to grant monopoly privileges. The struggle was not over free trade versus government control but rather over who would have the power to supply economic regulations*." (Ekelund and Hebert, 2016, p. 63)
+
+## Mercantilism as a process
+
+<br><br><br>
+
+Rise of [liberal thought]{.note}
+
+
+
+# Next time: Physiocracy  {background-color="#62259D"}
