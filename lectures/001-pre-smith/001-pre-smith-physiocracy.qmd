@@ -16,13 +16,497 @@ author:
 
 ## Liberal thought
 
+<br>
+
+[Mercantilism]{.note} & [excessive regulation]{.note}
+
+. . .
+
+<br>
+
+Costs:
+
+  - [Institutional]{.note};
+  - [Intellectual]{.note}.
+  
+
+. . .
+
+<br>
+
+What system of [beliefs/philosophy]{.note} opposes economic [regulations]{.note}?
  
 # French liberalism {background-color="#62259D"}
 
 ## French liberalism
 
+
+Writings on France's [misguided mercantilist policies]{.note}.
+
+. . .
+
+<br>
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](bois.png){fig-align="left" width="350" height="400"}
+:::
+
+::: {.column width="50%" .fragment .incremental}
+
+[Pierre le Pesant de Boisguilbert]{.note} (1646–1714)
+
+<br>
+
+- [Three-point]{.note} attack on Mercantilism:
+
+1. [Money]{.note} &ne; [wealth]{.note};
+
+2. [Agriculture]{.note};
+
+3. Regressive [tax]{.note} system.
+:::
+
+::::
+
+
+
+
+## French liberalism
+
+
+[Pierre le Pesant de Boisguilbert]{.note} (1646–1714)
+
+<br>
+
+*Dissertation on the Nature of Wealth, Money and Taxation* (1704)
+
+. . .
+
+<br>
+
+- All the different economic activities are [interrelated.]{.note}
+
+. . .
+
+"*A country can become prosperous only if exchanges take place according to the natural order of things, in which all activities are as complementary as the works of a watch*." (pp. 30&mdash;1)
+
+. . .
+
+<br>
+
+- How is this [order]{.note} achieved?
+
+## French liberalism
+
+
+[Pierre le Pesant de Boisguilbert]{.note} (1646–1714)
+
+<br>
+
+*Dissertation on the Nature of Wealth, Money and Taxation* (1704)
+
+. . .
+
+<br>
+
+"*[...] the fruits of the soil, and principally corn, put every occupation on their feet. Now their production is neither the consequence of chance, nor the free gift of nature. It is the outcome of a continual labour and of expenses paid in money.*" (p. 22)
+
+. . .
+
+
+<br>
+
+- Agriculture should be [tax-exempt]{.note}.
+
+
+## French liberalism
+
+
+[Pierre le Pesant de Boisguilbert]{.note} (1646–1714)
+
+<br>
+
+*Dissertation on the Nature of Wealth, Money and Taxation* (1704)
+
+. . .
+
+<br>
+
+[Three]{.note} causes for economic [crises]{.note}:
+
+. . .
+
+
+1. Excessive [taxation]{.note} on agriculture;
+
+2. Excessive [gains]{.note} from exchange;
+
+3. Excessive [luxury]{.note} spending.
+
+
+## Fench liberalism
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](cant.png){fig-align="left" width="400" height="400"}
+:::
+
+::: {.column width="50%" .fragment .incremental}
+
+[Richard Cantillon]{.note} (1680?&mdash;1734)
+
+<br>
+
+- [Less attacks]{.note} on Mercantilism;
+
+- More focused on laying out [principles]{.note};
+
+- *An Essay on the Nature of Trade in General* (1755).
+
+
+:::
+
+::::
+
+
+## Fench liberalism
+
+[Richard Cantillon]{.note} (1680?&mdash;1734)
+
+"*The land is the source or matter from whence all wealth is produced. The labour of man is the form which produces it: and wealth in itself is nothing but the maintenance, conveniencies and superfluities of life*.
+
+*Land produces herbage, roots, corn, flax, cotton, hemp, shrubs and timber of several kinds, with divers sorts of fruits, bark and foliage like that of the mulberry-tree for silkworms; it supplies mines and minerals. To all this the labour of man gives the form of wealth*.
+
+*Rivers and seas supply fish for the food of man, and many other things for his enjoyment. But these seas and rivers belong to the adjacent lands or are common to all, and the labour of man extracts from them the fish and other advantages.*" (p. 1)
+
+. . .
+
+<br>
+
+- Definition of [wealth]{.note}?
+
+
+## Fench liberalism
+
+[Richard Cantillon]{.note} (1680?&mdash;1734)
+
+<br>
+
+Still one foot on [Mercantilism]{.note}:
+
+"*[...] the comparative greatness of States is their reserve Stock above the yearly consumption…And as Gold and Silver can always buy these things, even from the Enemies of the State, Gold and Silver are the true reserve Stock of a State.*" (pp. 89-91)
+
+
+## Fench liberalism
+
+[Richard Cantillon]{.note} (1680?&mdash;1734)
+
+<br>
+
+A [hierarchy]{.note} of social classes:
+
+. . .
+
+<br>
+
+- [Landlords]{.note};
+
+- [Entrepreneurs]{.note};
+
+- [Hired]{.note} workers.
+
+
+
+
+## Fench liberalism
+
+[Richard Cantillon]{.note} (1680?&mdash;1734)
+
+<br>
+
+"*[I]t may be established that, except for the prince and the property owners, all the inhabitants of a State are dependent. They can be divided into two classes, entre- preneurs and hired workers. The entrepreneurs are on unfixed wages while the others are on fixed wages as long as there is work, although their functions and ranks may be very unequal. The general who has his pay, the courtier his pension and the domestic servant who has wages, all fall into this last class. All the others are entrepreneurs, whether they are set up with capital to conduct their enterprise, or are entrepreneurs of their own labor without capital, and they may be regarded as living under uncertainty; even the beggars and the robbers are entrepreneurs of this class.*"(p. 76)
+
+## Fench liberalism
+
+[Richard Cantillon]{.note} (1680?&mdash;1734)
+
+<br>
+
+"*All these entrepreneurs become consumers and customers of each other, the draper of the wine merchant, and vice versa. In a State, they proportion them- selves to the customers or their consumption. If there are too many hat makers in a city or on a street for the number of people who buy hats, the least patronized must go bankrupt. On the other hand, if there are too few, it will be a profitable business, which will encourage new hat makers to open shops, and in this manner, entrepreneurs of all kinds adjust themselves to risks in a state.*" (p. 75)
+
+. . .
+
+<br>
+
+- [Farmers]{.note} as *entrepreneurs*.
+
 # Physiocracy {background-color="#62259D"}
 
 ## Physiocracy
 
-# Next time: ??? {background-color="#62259D"}
+<br>
+
+The first [school]{.note} of economic thought
+
+. . .
+
+- *Physio* = [nature]{.note}
+
+- *Cracy* = [rule]{.note}, or [government by]{.note}
+
+
+<br>
+
+. . .
+
+Building blocks:
+
+- [Natural law]{.note};
+
+- Primacy of [agriculture.]{.note}
+
+## Physiocracy
+
+<br>
+
+[Historical background]{.note}
+
+
+. . .
+
+<br>
+
+
+- France [vs.]{.note} England
+
+- [Productivity]{.note} of agriculture
+
+- [Tax]{.note} burden
+
+
+
+## Physiocracy
+
+
+
+The [founding]{.note} figure:
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](quesnay.png){fig-align="left" width="400" height="400"}
+:::
+
+::: {.column width="50%" .fragment .incremental}
+
+[François Quesnay]{.note} (1694&mdash;1774)
+
+<br>
+
+- Working-class background
+
+- Louis XV's physician
+
+- Contributor to Diderot and D'Alembert's *Encyclopedia* (1751) ([[see here]{.link}](https://quod.lib.umich.edu/cgi/t/text/text-idx?type=simple;c=did;cc=did;rgn=author;q1=Fran%E7ois+Quesnay))
+
+- "The wisest man"?
+
+
+:::
+
+::::
+
+
+## Phisiocracy
+
+The [founding]{.note} document:
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](tableau.png){fig-align="left" width="400" height="450"}
+:::
+
+::: {.column width="50%"}
+
+[Tableau Économique]{.note} (1759)
+
+
+
+:::
+
+
+::::
+
+
+# Physiocratic economics {background-color="#62259D"}
+
+## Physiocratic economics
+
+<br>
+
+*Devoted* to the discovery of the [principles of Political Economy]{.note}.
+
+. . .
+
+<br>
+
+Underlying [philosophy]{.note}:
+
+- [Natural law]{.note};
+
+- [Individual rights/private property]{.note}.
+
+## Physiocratic economics
+
+<br>
+
+A [reaction]{.note} against Mercantilism
+
+. . .
+
+[Q]{.note}: How to react to an [established]{.note} economic doctrine?
+
+. . .
+
+[A]{.note}: Appealing to a [higher power]{.note}.
+
+. . .
+
+<br><br>
+
+A country's economy as a [mutual-interaction]{.note} system.
+
+
+
+# Physiocratic theory {background-color="#62259D"}
+
+## Physiocratic theory
+
+<br>
+
+[Q]{.note}: What is a country's [source of wealth]{.note}?
+
+. . .
+
+
+[A]{.note}: Its [net product]{.note} (*produit net*).
+
+
+<br>
+
+. . .
+
+- [What]{.note} is it?
+
+- What [generates]{.note} it?
+
+## Physiocratic theory
+
+<br>
+
+The Physiocrats' [fundamental axiom]{.note}
+
+. . .
+
+<br>
+
+A hierarchy of activities:
+
+- Agriculture = [productive]{.note}
+
+- Commerce and manufacturing = [sterile]{.note}
+
+
+. . .
+
+<br>
+
+Against [arbitrary price-setting]{.note}.
+
+. . .
+
+Quesnay only observed French [small-scale manufacturing]{.note}.
+
+# The *Tableau Économique* (1759) {background-color="#62259D"}
+
+## The *Tableau Économique* (1759)
+
+<br>
+
+Three sectors:
+
+- [Proprietary]{.note} class;
+
+- [Productive]{.note} class;
+
+- Sterile class ([artisans]{.note}).
+
+. . .
+
+<br>
+
+An [analogy]{.note} between the [operation of the economy]{.note} and the [performance of the human body]{.note}.
+
+
+## The *Tableau Économique* (1759)
+
+<br>
+
+A [simplified]{.note} version:
+
+![Source: Ekelund and Hebert (2016).](mini-tableau.png){fig-align="center" width="800" height="300"}
+
+# Policy prescriptions {background-color="#62259D"}
+
+## Policy prescriptions
+
+<br>
+
+Policies to encourage the [accumulation of capital]{.note}
+
+. . .
+
+<br>
+
+- [Tax reforms]{.note};
+
+- [Free trade]{.note}.
+
+# Criticisms {background-color="#62259D"}
+
+## Criticisms
+
+
+[Two]{.note} forms:
+
+<br>
+
+
+. . .
+
+- [Unreflective]{.note} fo the [facts]{.note} of their day
+
+  - How come manufacturing [does not]{.note} create surplus?
+  - A "natural" justification.
+  
+. . .
+
+<br>
+
+- Overshadowed by [normative]{.note} considerations
+
+  - Are Physiocrats mere [neomedievalists]{.note}?
+  - Are they [reformists]{.note}?
+
+# Next time: Intro to Adam Smith {background-color="#62259D"}
