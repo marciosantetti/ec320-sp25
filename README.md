@@ -34,6 +34,12 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
+**003: Economic ideas prior to Adam Smith III**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/001-pre-smith/001-pre-smith-physiocracy.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/001-pre-smith/001-pre-smith-physiocracy1.pdf)
+
+<br>
+
 
 ## Assignments
 
