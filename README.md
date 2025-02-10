@@ -40,6 +40,14 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
+**004: Adam Smith: Introduction**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-moral-philosophy.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-introduction.pdf)
+
+<br>
+
+
+
 
 ## Assignments
 
