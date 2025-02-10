@@ -1,0 +1,247 @@
+---
+title: "Adam Smith's moral philosophy I"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Preface {background-color="#62259D"}
+  
+  
+  
+## Preface
+
+<br><br>
+
+> "*No economist’s name is more frequently invoked than that of Adam Smith, and no economist’s works are less frequently read.*" (Heilbroner, 1986, p. 11)
+  
+
+## Preface
+
+<br><br><br>
+
+What happens if you "google" the term [Invisible hand]{.note}?
+
+
+
+# Smith and his times {background-color="#62259D"}
+
+## Smith and his times
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![[[Adam Smith by John Kay (1838)]{.link}](https://www.nationalgalleries.org/art-and-artists/37101/adam-smith-1723-1790-political-economist)](smith2.png){fig-align="left" width="400" height="500"}
+:::
+
+::: {.column width="50%" .fragment .incremental}
+
+- 1723: Born in Kircaldy (Scotland)
+
+- 1751: Chair in Logic at the University of Glasgow
+
+- 1752: Moved to Chair of Moral Philosophy
+
+- 1759: *The Theory of Moral Sentiments*
+
+- Tutor to [Charles Townshend]{.note}'s stepson
+
+- 1763: Travels to France and meets Quesnay
+
+- 1776: *Wealth of Nations*
+
+- 1790: Died at 67 in Edinburgh
+
+
+:::
+
+::::
+
+
+## Smith and his times
+
+<br>
+
+[Historical context]{.note}
+
+. . .
+
+<br>
+
+The [(Scottish) Enlightenment]{.note}
+
+. . .
+
+<br>
+
+- Goal: [human emancipation]{.note}
+
+- Reason + "[passions]{.note}"
+
+
+## Smith and his times
+
+<br>
+
+The [(Scottish) Enlightenment]{.note}
+
+<br>
+
+Important views:
+
+- The laws of Political economy should [stand on their own]{.note}
+
+- Are the [acquisitive]{.note} ethics of capitalism compatible with [traditional]{.note} virtues of [sociability]{.note}, [sympathy]{.note} and [justice]{.note}?
+
+
+
+# The *Fable of the bees*
+
+## The *Fable of the bees*
+
+<br>
+
+[Bernard de Mandeville]{.note} (1670&mdash;1733)
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](hive.png){fig-align="left" width="300" height="400"}
+
+:::
+
+::: {.column width="50%"}
+
+![](bees.png){fig-align="right" width="300" height="400"}
+
+:::
+
+::::
+
+# Smith's early writings {background-color="#62259D"}
+
+## Smith's early writings
+
+
+<br>
+
+[Essays]{.note} + [Lectures]{.note} given at the University fo Edinburgh prior to 1759 (*TMS*)
+
+. . .
+
+<br>
+
+[[1] Lectures on Rhetoric and Belles Lettres]{.note}
+
+[[2] The History of Astronomy]{.note}
+
+[[3] Lectures on Jurisprudence]{.note}
+
+
+
+## Smith's early writings
+
+
+
+[[1] Lectures on Rhetoric and Belles Lettres]{.note}
+
+<br>
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](rhet.png){fig-align="left" width="300" height="400"}
+
+:::
+
+
+::: {.column width="50%"}
+
+- Rhetoric as the [basis of persuasion]{.note}
+
+::: {style="font-size: 80%;"}
+
+> "*We are to observe that … subordinate propositions should not be above five in number. When they exceed this number the mind cannot easily comprehend them at one view; and the whole runs into confusion. Three or thereabout is a very proper number; and it is observed that this number is much more easily comprehended than two or four. In the number three there is, as it were, a middle and two extremes; but in two or four there is no middle on which attention can be fixed*." (pp. 142–43)
+
+:::
+
+:::
+
+
+::::
+
+
+## Smith's early writings
+
+
+
+[[2] The History of Astronomy]{.note}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](astr.png){fig-align="left" width="300" height="400"}
+
+:::
+
+
+::: {.column width="50%"}
+
+- Likely around 1758
+
+- *Why do men theorize in the first place, whether about astronomy or anything else*?
+
+> "*[T]he repose and tranquillity of the imagination is the ultimate end of philosophy.*” (p. 61)
+
+:::
+
+
+::::
+
+
+
+## Smith's early writings
+
+
+[[3] Lectures on Jurisprudence]{.note}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](juris.png){fig-align="left" width="300" height="400"}
+
+:::
+
+
+::: {.column width="50%"}
+
+- Many subjects from *The Wealth of Nations* in a [draft-like]{.note} manner.
+
+:::
+
+
+::::
+
+
+
+# Next time: *The Theory of Moral Sentiments* {background-color="#62259D"}
