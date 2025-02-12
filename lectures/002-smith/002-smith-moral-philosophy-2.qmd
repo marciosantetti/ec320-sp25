@@ -1,0 +1,149 @@
+---
+title: "Adam Smith's moral philosophy II"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Private and public matters {background-color="#62259D"}
+  
+  
+  
+## Private and public matters
+
+<br>
+
+Consequences of the [Fable of the Bees]{.note} (1714)
+
+. . .
+
+<br>
+
+Human beings as [hedonistic]{.note} individuals
+
+<br>
+
+. . .
+
+
+Are there [moral constraints/limits]{.note} to this hedonistic behavior?
+
+
+## Private and public matters
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+[David Hume]{.note} (1711&mdash;1776)
+
+<be>
+![](hume.png){fig-align="left" width="300" height="400"}
+:::
+
+::: {.column width="50%" }
+
+<br>
+
+Moral codes as [social constructs]{.note}
+
+
+[First]{.note}: Do what feels good
+
+[Second]{.note}: Write moral codes to justify choices
+
+:::
+
+::::
+
+
+## Private and public matters
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+[Francis Hutcheson]{.note} (1694&mdash;1746)
+
+<br>
+![](hutch.png){fig-align="left" width="300" height="400"}
+:::
+
+::: {.column width="50%" }
+
+<br><br>
+
+Moral acts [naturally]{.note} produce feelings of [pleasure]{.note}
+
+
+<br>
+
+Morality is [inherently hedonistic]{.note}
+
+:::
+
+::::
+
+
+# The Theory of Moral Sentiments {background-color="#62259D"}
+
+
+## The Theory of Moral Sentiments
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+<br>
+
+![](tms.png){fig-align="left" width="300" height="500"}
+:::
+
+::: {.column width="50%" }
+
+<br>
+
+<br>
+
+Adam Smith's *Theory of Moral Sentiments* (1759) as a [middle ground]{.note} on these previous views
+
+:::
+
+::::
+
+
+
+
+## The Theory of Moral Sentiments
+
+<br>
+
+[Questions]{.note} to guide the reading:
+
+<br>
+
+1. What is the [basis of human relations]{.note}?
+
+2. How is the wish to [be praised]{.note} achieved?
+
+3. Is [sympathy]{.note} enough?
+
+4. How is [acquisitiveness]{.note} transmuted into [acquiescence]{.note}?
+
+5. Why do individuals [pursue]{.note} riches?
+
+
+
+
+# Next time: *The Wealth of Nations* {background-color="#62259D"}
