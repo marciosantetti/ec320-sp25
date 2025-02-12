@@ -48,7 +48,7 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 **005: Adam Smith: The Theory of Moral Sentiments**
 
-  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-moral-philosophy-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-moral-philosophy.pdf)
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-moral-philosophy-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/002-smith/002-smith-moral-philosophy.pdf)
 
 <br>
 
