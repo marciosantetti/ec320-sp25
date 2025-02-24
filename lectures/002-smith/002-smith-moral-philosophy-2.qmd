@@ -45,7 +45,7 @@ Are there [moral constraints/limits]{.note} to this hedonistic behavior?
 
 [David Hume]{.note} (1711&mdash;1776)
 
-<be>
+<br>
 ![](hume.png){fig-align="left" width="300" height="400"}
 :::
 

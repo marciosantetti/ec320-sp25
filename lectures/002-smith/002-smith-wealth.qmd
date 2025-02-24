@@ -1,0 +1,147 @@
+---
+title: "Adam Smith's *The Wealth of Nations*"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+# Structure {background-color="#62259D"}
+
+## Structure 
+
+<br>
+
+![](wn-cover.png){fig-align="center" width="400" height="500"}
+
+
+## Structure 
+
+<br>
+
+[Book I]{.note}: Division of labor.
+
+. . .
+
+[Book II]{.note}: Accumulation.
+
+. . .
+
+[Book III]{.note}: Historical overview (since fall of Roman empire).
+
+. . .
+
+[Book IV]{.note}: Critical overview of Mercantilism + Physiocracy.
+
+. . .
+
+[Book V]{.note}: Role of the State in the economy.
+
+
+# Introduction and Plan of Work
+
+
+# Book I
+
+## Book I
+
+
+
+[Guiding questions]{.note}:
+
+<br>
+
+
+1. According to Smith, what starts a nation's economic growth process?
+
+2. What are the three reasons for the increase in the quantity of work in Smith's system?
+
+3. What example does Smith use to illustrate the social division of labor?
+
+4. Relate self-interest, the human propensity to exchange, and the butcher/brewer/baker example in Smith's system.
+
+5. What analytical deficiencies are evident in Smith's view of the market?
+
+6. Relate the extent of the market and Smith's liberal views.
+
+7. How can the division of labor, in Smith's view, create "stupid and ignorant" individuals?
+
+8. Relate the diamond-water paradox with Smith's view on value.
+
+## Book I
+
+
+
+[Guiding questions]{.note}:
+
+<br>
+
+9. What is the source of value in Smith's system?
+
+10. In advanced stages of society, what are the three components of a commodity's price?
+
+11. Distinguish natural and market prices.
+
+
+
+# Book II
+
+
+## Book II
+
+[Guiding questions]{.note}:
+
+<br>
+
+
+1. What does Smith mean by "stock"?
+
+2. What is the role played by the accumulation of stock in Smith's system?
+
+3. What is the difference between productive and unproductive labor? Why is it problematic?
+
+# Book III
+
+## Book III
+
+[Guiding question]{.note}:
+
+<br>
+
+1. What are the three ways in which the countryside benefits from the rise of towns?
+
+
+# Book IV
+
+## Book IV
+
+[Guiding questions]{.note}:
+
+<br>
+
+1. Describe Smith's view of a system of perfect liberty.
+
+2. In what context does the *Invisible Hand* appear in the Wealth of Nations?
+
+# Book V
+
+## Book V
+
+[Guiding questions]{.note}:
+
+<br>
+
+1. According to Smith, when does the government become necessary?
+
+2. According to Smith, what are the three duties of a sovereign?
+
+
+
+# Next time: Malthus & Ricardo {background-color="#62259D"}
