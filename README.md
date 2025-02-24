@@ -50,6 +50,14 @@ Welcome to EC 320: History of Economic Thought!<br>
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-moral-philosophy-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/002-smith/002-smith-moral-philosophy.pdf)
 
+
+<br>
+
+**006: Adam Smith: The Wealth of Nations**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/002-smith/002-smith-wealth.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/main/lectures/002-smith/002-smith-wealth.pdf)
+
+
 <br>
 
 
