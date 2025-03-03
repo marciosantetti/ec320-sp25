@@ -68,3 +68,5 @@ Welcome to EC 320: History of Economic Thought!<br>
 <br>
 
 - **HET Glossary**: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/assignments/glossary/glossary-ec320-sp25.html)
+
+- **The Adam Smith *Problems***: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/assignments/adam-smith-problems/smith-problems-ec320-sp25.html)
