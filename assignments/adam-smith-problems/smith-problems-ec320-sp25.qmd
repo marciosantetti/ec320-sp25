@@ -1,0 +1,104 @@
+---
+title: "The Adam Smith *Problems*"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Description 
+  
+  
+  
+## Description
+
+<br><br>
+
+Adam Smith provided remarkable contributions to [Moral Philosophy]{.note} and [Political Economy]{.note}.
+
+<br><br>
+
+. . .
+
+Our task is to [highlight]{.note} his main contributions from his two main books (*TMS* + *WN*).
+
+
+  
+
+
+# How this will work
+
+
+## How this will work
+
+<br>
+
+How would you provide [resources]{.note} to a future *History of Economic Thought* student regarding:
+
+<br>
+
+- The principle of [sympathy]{.note} (*TMS*);
+
+- The [self-interest]{.note} doctrine (*WN*);
+
+- The "[Adam Smith Problem]{.note}"?
+
+
+
+## How this will work
+
+<br>
+
+
+Think about [how]{.note} you would like to get better informed about these topics.
+
+. . .
+
+<br>
+
+- Videos?
+
+- Audio?
+
+- Written form?
+
+- Other?
+
+
+
+
+## How this will work
+
+<br><br>
+
+Using [Smith's principles]{.note}, *dividing the labor* makes everyone more *productive.*
+
+
+
+
+  
+# Grading
+
+
+## Grading
+
+<br><br>
+
+- Points possible: [40]{.note}.
+
+- Due date: [March 27th, before class]{.note}.
+
+- Late submission policies are available on the [Course Syllabus]{.note}.
+  
+
+
+
+
+
+

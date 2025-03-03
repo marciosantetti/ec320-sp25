@@ -1,0 +1,46 @@
+---
+title: "Gloomy science I: Malthus"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Economic thought after WN {background-color="#62259D"}
+  
+  
+  
+## Economic thought after WN
+
+
+
+# Reactions {background-color="#62259D"}
+
+## Reactions 
+
+<br>
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](malthus.png){fig-align="left" width="300" height="450"}
+
+:::
+
+::: {.column width="50%"}
+
+
+:::
+
+
+::::
+
+# Next time: David Ricardo {background-color="#62259D"}
