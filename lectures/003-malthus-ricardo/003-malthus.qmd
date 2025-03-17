@@ -12,11 +12,47 @@ author:
   - name: Prof. Santetti
 ---
   
-# Economic thought after WN {background-color="#62259D"}
+# Economic thought after Smith {background-color="#62259D"}
   
   
   
-## Economic thought after WN
+## Economic thought after Smith
+
+
+[<u>Timeline</u>]{.note}:
+
+. . .
+
+- 1789: [French Revolution]{.note}
+
+. . .
+
+- 1790: Smith's [death]{.note}
+
+. . .
+
+- 1795: [Speenhamland]{.note} system passes
+
+. . .
+
+- 1798: First edition of Malthus's [Essay on Population]{.note}
+
+. . .
+
+- 1811: Beginning of [Luddite]{.note} rebellions 
+
+. . .
+
+
+- 1815: Ricardo's [Essay on Profits]{.note}
+
+. . .
+
+- 1816: Passing of the [Corn Laws]{.note}
+
+. . .
+
+- 1846: Repeal of the [Corn Laws]{.note}
 
 
 
@@ -29,18 +65,151 @@ author:
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="50%" }
 
 ![](malthus.png){fig-align="left" width="300" height="450"}
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="50%"  .fragment .incremental}
 
+[Thomas Robert Malthus]{.note} (1766&mdash;1834):
+
+- Born in Surrey (south of London, England);
+
+- Son of Daniel Malthus, highly influenced by Enlightenment writers;
+
+- Mostly trained in Mathematics;
+
+- Minister of the Church of England;
+
+- Taught [Political Economy]{.note} at East India College.
 
 :::
 
 
 ::::
+
+
+##
+
+
+*An Essay on the Principle of Population, As It Affects the Future Improvement of Society With Remarks on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers* (1798)
+
+![](essay-pop.png){fig-align="center" width="400" height="550"}
+
+## Reactions
+
+The ["perfectibility"]{.note} hypothesis
+
+<br>
+
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[William Godwin]{.note} (1756&mdash;1836)
+
+
+![](godwin.png){fig-align="left" width="300" height="350"}
+
+:::
+
+::: {.column width="50%"}
+
+
+
+[Marquis de Condorcet]{.note} (1743-1794)
+
+
+
+![](condorcet.png){fig-align="left" width="300" height="350"}
+
+:::
+
+
+::::
+
+
+# The principle of population {background-color="#62259D"}
+
+## The principle of population
+
+<br>
+
+A [mathematical]{.note} argument [against]{.note} the perfectibility hypothesis
+
+. . .
+
+[Logical]{.note} argument resting on [<u>two postulates</u>]{.note}:
+
+<br>
+
+. . .
+
+1. [Population]{.bg-grey} grows [geometrically]{.note} ([exponentially]{.note}), if left unchecked;
+
+2. [Food]{.bg-grey} production cannot sustain more than an [arithmetic]{.note} pattern.
+
+
+. . .
+
+<br>
+
+- [Consequence]{.note}: increase in agricultural prices and worsening of living conditions.
+
+
+
+## The principle of population
+
+<br>
+
+However, [checks]{.note}:
+
+. . .
+
+<br>
+
+- [Preventive]{.bg-grey} checks: lowering the *birth rate*.
+
+
+- [Positive]{.bg-grey} checks: controlling *population growth*.
+
+
+# Malthus and the Poor Laws {background-color="#62259D"}
+
+
+## Malthus and the Poor Laws
+
+
+<br>
+
+The Elizabethan [Poor Laws]{.note} (1601)
+
+[Speenhamland]{.note} system (1795)
+
+
+<br>
+
+<br>
+
+. . .
+
+Helping the poor [vs]{.note}. natural law
+
+
+## Malthus and the Poor Laws
+
+
+
+Last paragraph of the *Essay*:
+
+<br>
+
+> "*Evil exists in the world not to create despair but activity. We are not patiently to submit to it, but to exert ourselves to avoid it. It is not only the interest but the duty of every individual to use his utmost efforts to remove evil from himself and from as large a circle as he can influence, and the more he exercises himself in this duty, the more wisely he directs his efforts, and the more successful these efforts are, the more he will probably improve and exalt his own mind and the more completely does he appear to fulfil the will of his Creator.*" (pp. 124-125)
+
+
+
 
 # Next time: David Ricardo {background-color="#62259D"}

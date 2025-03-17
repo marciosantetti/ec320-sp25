@@ -1,0 +1,136 @@
+---
+title: "Gloomy science II: Ricardo"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# The backdrop {background-color="#62259D"}
+
+
+## The backdrop
+
+<br>
+
+
+The "[Age of Ricardo]{.note}": 1816&mdash;1846
+
+. . .
+
+<br>
+
+[**Class conflict**]{.bg-grey}: [landowners]{.note} vs. [capitalists]{.note}
+
+
+## The corn laws
+
+. . .
+
+
+![](corn2.png){fig-align="center" width="1000" height="650"}
+
+
+## The corn laws
+
+
+![](corn1.png){fig-align="center" width="1000" height="650"}
+
+
+## The corn laws
+
+
+<br>
+
+Redistribution of income towards [landowners]{.note} (*rent*)
+
+At the expense of [capitalists]{.note} (*profits*)
+
+. . .
+
+<br><br>
+
+After 1846:
+
+- The growing capitalist class takes control of the [Parliament.]{.note}
+
+
+# The intellectual background {background-color="#62259D"}
+
+
+## The intellectual background
+
+[David Ricardo]{.note} (1772&mdash;1823)
+
+
+
+![](ricardo.png){fig-align="left" width="450" height="450"}
+
+
+## The intellectual background
+
+The [Essay on Profits]{.note} (1815)
+
+![](corn-essay.png){fig-align="center" width="450" height="550"}
+
+
+## The intellectual background
+
+<br>
+
+- [Wages]{.note}: tend to subsistence.
+
+- [Rents]{.note}: determined according to the difference in *land fertility*.
+
+- [Profits]{.note}: the *residual* after wages and rents are paid.
+
+. . .
+
+<br>
+
+&rarr; How do the [Corn Laws]{.note} influence the [distribution of income]{.note}?
+
+
+## The intellectual background
+
+<br>
+
+The long-run: 
+
+- A "[stationary state]{.note}"
+
+
+
+## The intellectual background
+
+
+![Granger Collection, New York.](luddite.png){fig-align="center" width="500" height="550"}
+
+# Malthus's and Ricardo's *Principles* {background-color="#62259D"}
+
+## Malthus's and Ricardo's *Principles*
+
+
+*Principles of Political Economy and Taxation* (1817)
+
+![](ric-principles.png){fig-align="center" width="450" height="550"}
+
+## Malthus's and Ricardo's *Principles*
+
+
+*Principles of Political Economy* (1820)
+
+![](malthus-principles.png){fig-align="center" width="400" height="550"}
+
+
+
+
+
+
+# Next time: J.S. Mill  {background-color="#62259D"}
