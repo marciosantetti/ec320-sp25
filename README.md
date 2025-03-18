@@ -60,6 +60,12 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
+**007: Gloomy science I: Thomas Malthus**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/003-malthus-ricardo/003-malthus.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/003-malthus-ricardo/003-malthus.pdf)
+
+<br>
+
 
 
 
