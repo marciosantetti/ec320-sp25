@@ -66,7 +66,7 @@ Welcome to EC 320: History of Economic Thought!<br>
 
 <br>
 
-**007: Gloomy science II: David Ricardo**
+**008: Gloomy science II: David Ricardo**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/003-malthus-ricardo/003-ricardo.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/003-malthus-ricardo/003-ricardo.pdf)
 
