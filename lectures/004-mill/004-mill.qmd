@@ -12,13 +12,67 @@ author:
   - name: Prof. Santetti
 ---
   
-#  {background-color="#62259D"}
+# A privileged education {background-color="#62259D"}
   
   
   
-## 
+## A privileged education
+
+[J.S. Mill]{.note} (1806&mdash;1873)
+
+<br>
+
+![](mill.png){fig-align="left" width="400" height="420"}
+
+
+# Utilitarianism {background-color="#62259D"}
+
+
+## Utilitarianism
+
+[Jeremy Bentham]{.note} (1748&mdash;1832)
+
+<br>
+
+![](bentham.png){fig-align="left" width="400" height="420"}
+
+## Utilitarianism
+
+*An introduction to the principles of morals and legislation* (1780)
 
 
 
+![](morals.png){fig-align="center" width="420" height="500"}
 
-# Next time: Marx {background-color="#62259D"}
+
+## Utilitarianism
+
+<br><br>
+
+[[Jeremy Bentham's Auto-icon at University College London]{.link}](https://www.ucl.ac.uk/bentham-project/about-jeremy-bentham/auto-icon)
+
+
+
+# Mill's Economics {background-color="#62259D"}
+
+## Mill's Economics
+
+*Principles of Political Economy* (1848)
+
+![](principles.png){fig-align="center" width="400" height="500"}
+
+
+## Mill's Economics
+
+<br>
+
+[Production]{.note} vs. [Distribution]{.note}
+
+. . .
+
+
+<br><br>
+
+Another view on the [stationary state]{.note}
+
+# Next time: Early Marx {background-color="#62259D"}
