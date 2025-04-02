@@ -1,0 +1,268 @@
+---
+title: "The *early* Marx"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+# Timeline {background-color="#62259D"}
+
+
+## Timeline
+
+
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Karl Marx]{.note} (1818&mdash;1883)
+
+![](young.png){fig-align="left" width="300" height="400"}
+
+:::
+
+
+::: {.column width="50%"}
+
+
+::: {style="font-size: 85%"}
+
+- 1818: Born in [Trier]{.note}, state of Prussia.
+
+- 1835: Entered [law]{.note} school, University of Bonn.
+
+- 1836: Transferred to University of Berlin.
+
+- 1839: Switched to [Philosophy]{.note}, defended his thesis (on Greek philosophy, U. of Jena) with the goal of becoming a university lecturer.
+
+- 1841: [Journalism]{.note} career: *Deutsche Jahrbücher* and *Rheinische Zeitung*.
+
+- 1842: First meeting with [Friedrich Engels]{.note}.
+
+- 1843: [Marriage]{.note} to Jenny von Westphalen.
+
+- 1843: Moves to [Paris]{.note}; founds *Deutsch-Franzosische Jahrbücher*.
+
+- 1844: Publication of *Introduction to A Critique of Hegel’s Philosophy of Right* and writes *Economic and Philosophical Manuscripts*.
+
+:::
+
+:::
+
+::::
+  
+# The historical background {background-color="#62259D"}
+  
+  
+
+## The historical background
+
+<br>
+
+[Germany]{.note} vs. [France]{.note} and [Britain]{.note}
+
+. . .
+
+<br>
+
+[French]{.note} and [Industrial]{.note}  Revolutions
+
+. . .
+
+<br>
+
+Germany's *backwardness* (*aka* "[anachronism]{.note}")
+
+
+## The historical background
+
+
+![](map.png){fig-align="center" width="900" height="600"}
+
+
+
+# Intellectual influences {background-color="#62259D"}
+
+
+## Intellectual influences
+
+
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Georg W.F. Hegel]{.note} (1770&mdash;1831)
+
+![](hegel.png){fig-align="left" width="300" height="400"}
+
+
+:::
+
+
+::: {.column width="50%" }
+
+*The Phenomenology of the Spirit* (1807)
+
+![](phen.png){fig-align="left" width="300" height="400"}
+
+:::
+
+
+::::
+
+
+## Intellectual influences
+
+
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Georg W.F. Hegel]{.note} (1770&mdash;1831)
+
+![](hegel.png){fig-align="left" width="300" height="400"}
+
+
+:::
+
+
+::: {.column width="50%" }
+
+<br>
+
+- Method: [Dialectics]{.note}.
+
+- Approach: [Idealism]{.note}.
+
+<br>
+
+
+- The [driving force]{.note} of History lies in the realm of [ideas.]{.note}
+
+- [Religious alienation]{.note} (faith) is a source of [humanity.]{.note}
+
+:::
+
+
+::::
+
+
+
+
+## Intellectual influences
+
+
+The [young Hegelians]{.note}
+
+. . .
+
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Ludwig Feuerbach]{.note} (1804&mdash;1872)
+
+![](feuerbach.png){fig-align="left" width="300" height="400"}
+
+
+:::
+
+
+::: {.column width="50%" }
+
+*The Essence of Christianity* (1841)
+
+![](essence.png){fig-align="left" width="350" height="400"}
+:::
+
+::::
+
+## Intellectual influences
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+[Ludwig Feuerbach]{.note} (1804&mdash;1872)
+
+![](feuerbach.png){fig-align="left" width="300" height="400"}
+
+
+:::
+
+
+::: {.column width="50%" .incremental}
+
+::: {style="font-size: 80%"}
+
+- [Religious differences]{.note} as an impediment to German [unification.]{.note}
+
+- *"God, as the Father, is the generator, the active, the principle of **masculine** spontaneity [...]"* (p. 71)
+
+- *"The Father is a truth only where the Mother is a truth. Love is in and by itself essentially feminine in its nature. The belief in the love of God is the belief in the **feminine** principle as divine. Love apart from living nature is an anomaly, a phantom. Behold in love the holy necessity and depth of Nature!"* (p. 72)
+
+- *"Thus the material of baptism is water, common, natural water, just as the material of religion in general is common, natural humanity. But as religion **alienates** our own nature from us, and represents it as not ours, so the water of baptism is regarded as quite other than common water ; for it has not a physical but a hyperphysical power and significance."* (p. 236)
+
+
+
+- [Atheism]{.note} as a solution.
+
+:::
+
+:::
+
+
+::::
+
+
+
+# Why Political Economy? {background-color="#62259D"}
+
+
+## Why Political Economy?
+
+<br>
+
+February 1844: 
+
+- Publication of [Introduction]{.note} to *A Critique of Hegel’s Philosophy of Right*.
+
+. . .
+
+<br>
+
+[Structure]{.note} of Feuerbach's system, but with [different elements]{.note}.
+
+
+## Why Political Economy?
+
+<br>
+
+Summer 1844: 
+
+- Writing of the *Economic and Philosophical Manuscripts* (only coming to the general public in the 1930s).
+
+. . .
+
+
+<br>
+
+The central theme: [alienated]{.note} ([estranged]{.note}) labor.
+
+
+# Next time: Later writings {background-color="#62259D"}
