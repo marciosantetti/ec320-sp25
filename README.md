@@ -76,6 +76,12 @@ Welcome to EC 320: History of Economic Thought!<br>
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/004-mill/004-mill.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/004-mill/004-mill.pdf)
 
+<br>
+
+**010: The *early* Marx**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/005-early-marx/005-early-marx.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec320-sp25/refs/heads/main/lectures/005-early-marx/005-early-marx.pdf)
+
 
 <br>
 
