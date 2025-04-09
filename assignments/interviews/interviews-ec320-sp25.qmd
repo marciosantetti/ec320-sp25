@@ -1,0 +1,81 @@
+---
+title: "Interviews"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Description 
+  
+  
+  
+## Description
+
+<br><br>
+
+After a Spring semester learning about several authors, it is time to [listen to other people]{.note} on the subject!
+
+. . .
+
+
+<br><br>
+
+By talking to other economists, you may be introduced to different [perspectives]{.note}, [schools of thought]{.note}, and [experiences]{.note} with the subject.
+
+
+# How this will work
+
+
+## How this will work
+
+<br>
+
+
+You are asked to prepare an [interview/conversation]{.note} with [at least three]{.note} Economics faculty members (from the College or elsewhere).
+
+. . .
+
+How the conversation will be [conducted]{.note} (in person, virtually, etc.) is up to you.
+
+. . .
+
+You should include [at least 5 questions]{.note} regarding, for instance:
+
+- Their [experience]{.note} with the History of Economic Thought;
+
+- Their main [influences]{.note} (in terms of schools of thought and/or specific authors);
+
+- Have they had this [course]{.note} while in their undergraduate/graduate studies? How was it?
+
+- [Recommended]{.note} readings/articles;
+
+- ... And [your own]{.note} questions!
+
+
+  
+# Grading
+
+
+## Grading
+
+<br><br>
+
+- Points possible: [50]{.note}.
+
+- Due date: [April 29th, before class]{.note}.
+
+- Late submission policies are available on the [Course Syllabus]{.note}.
+  
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+---
+title: "Marx: *Later* writings"
+subtitle: "History of Economic Thought // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+# Timeline {background-color="#62259D"}
+
+
+## Timeline
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%" }
+
+[Karl Marx]{.note} (1818&mdash;1883)
+
+![](adlt.png){fig-align="left" width="300" height="300"}
+
+:::
+
+
+::: {.column width="50%"}
+
+
+
+
+::: {style="font-size: 85%"}
+
+- 1845: Breaks with Feuerbach and "young Hegelianism."
+
+- 1845&mdash;1849: Brussels period.
+
+- 1846: Writes *The German Ideology* with Engels.
+
+- 1849: Moves to London.
+
+- 1851&mdash;1862: Collaboration with the *new York Daily Tribune*.
+
+- 1859: Writes *A Contribution to the Critique of Political Economy*.
+
+- 1863: Writes *Theories of Surplus Value*.
+
+- 1867: *Capital*, Volume I is published.
+
+- 1883: Death of Marx.
+
+- 1895: Death of Engels.
+
+:::
+
+:::
+
+::::
+
+
+# Marx's interpretation of History {background-color="#62259D"}
+
+
+## Marx's interpretation of History
+
+
+<br>
+
+[First]{.note} allusions in *Theses on Feuerbach* (1845).
+
+. . .
+
+<br>
+
+[Consolidated]{.note} in *The German Ideology* (1846).
+
+. . .
+
+<br>
+
+
+[Summarized]{.note} in the Preface to *A Contribution to the Critique of Political Economy* (1859).
+
+## Marx's interpretation of History
+
+
+
+
+![Source: Ekelund and Hebert (2014)](str.png){fig-align="center" width="500" height="550"}
+
+# The labor process {background-color="#62259D"}
+
+
+## The labor process
+
+<br>
+
+[Initial]{.note} considerations in *Wage-Labour and Capital* (1847).
+
+. . .
+
+<br>
+
+Further [developed]{.note} in *A Contribution to the Critique of Political Economy* (1859).
+
+. . .
+
+<br>
+
+More [mature]{.note} views in the *Grundrisse* (1857&mdash;1758).
+
+. . .
+
+<br>
+
+[Final form]{.note} in *Capital, volume I* (1867).
+
+
+## The labor process
+
+<br>
+
+Some [key features]{.note}:
+
+- [Two classes]{.note}: workers and capitalists;
+
+- Where does [value]{.note} come from?;
+
+- The "[reproduction]{.note} cycle": *M*&mdash;*C*&mdash;*M'*, where *M'>M*;
+
+- The origin of [surplus-value]{.note}: The production process;
+
+- [Labor-power]{.note} *vs.* specific abilities;
+
+- Productive power of labor: *v*;
+
+- Constant capital: *c*;
+
+- [Overall value]{.note} of a commodity (*m*): *m = c + v + s*;
+
+- [Absolute]{.note} *vs*. [relative]{.note} surplus-value.
+
+# Next time: The Marginalist revolution {background-color="#62259D"}
+
+
